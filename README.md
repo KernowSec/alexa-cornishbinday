@@ -7,3 +7,5 @@ alexa bin day app for cornwall. see https://www.amazon.co.uk/KernowSec-Cornwall-
 Add the skill to your Alexa account via the app. Go to Skills -> Cornish Bin Day.
 
 Gets the address from your alexa address.
+
+Requires address in specific format in Alexa TODO
